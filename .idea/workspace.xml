@@ -145,12 +145,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest in test.py" />
       <item itemvalue="Python tests.Python tests for test.test_checkbox_successful" />
       <item itemvalue="Python tests.Python tests for test.test_end_to_end_1_successful" />
       <item itemvalue="Python tests.Python tests for test.test_end_to_end_2_successful" />
       <item itemvalue="Python tests.Python tests for test.test_end_to_end_3_successful" />
       <item itemvalue="Python tests.Python tests for test.test_login_successful" />
+      <item itemvalue="Python tests.pytest in test.py" />
     </list>
     <recent_temporary>
       <list>
