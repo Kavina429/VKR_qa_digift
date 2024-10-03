@@ -11,7 +11,6 @@ data_name_to = "Natalie"
 data_lastname_to = "Kavina"
 data_mail_to = "n.kavina@gmail.com"
 data_phone_to = "+79137773344"
-data_calender = "28.09.2024"
 data_assert_1 = 'Ваш подарок уже в пути!'
 data_assert_2 = "Подтверждение заказа отправлено по электронной почте v.turbin@gmail.com."
 
